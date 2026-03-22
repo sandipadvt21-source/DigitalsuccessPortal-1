@@ -1,0 +1,2 @@
+user_id,name,email,phone,password,referral_code,referred_by,is_active,created_at
+27c1e9a4,sp,abc@gmail.com,9876543210,sp,SPDCA0,B317ADB863,Yes,2026-03-10 03:40:50

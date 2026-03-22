@@ -1,0 +1,20 @@
+{
+    "demo_user": {
+        "main_wallet": 15000.0,
+        "epin_wallet": 5000.0,
+        "total_income": 45000.0,
+        "withdrawable_balance": 12500.0
+    },
+    "user": {
+        "main_wallet": 0.0,
+        "epin_wallet": 0.0,
+        "total_income": 0.0,
+        "withdrawable_balance": 0.0
+    },
+    "abc": {
+        "main_wallet": 0.0,
+        "epin_wallet": 0.0,
+        "total_income": 0.0,
+        "withdrawable_balance": 0.0
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "demo_user": [
+        {
+            "date": "2026-03-05",
+            "amount": 5000,
+            "status": "Completed",
+            "bank": "HDFC Bank",
+            "method": "Bank Transfer"
+        },
+        {
+            "date": "2026-02-25",
+            "amount": 3000,
+            "status": "Pending",
+            "bank": "HDFC Bank",
+            "method": "Bank Transfer"
+        }
+    ]
+}

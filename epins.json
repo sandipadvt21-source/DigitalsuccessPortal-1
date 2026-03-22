@@ -1,0 +1,20 @@
+{
+    "demo_user": {
+        "received": [
+            {
+                "from_user": "john_doe",
+                "quantity": 5,
+                "date": "2026-03-01",
+                "status": "Active"
+            }
+        ],
+        "transferred": [
+            {
+                "to_user": "another_user",
+                "quantity": 3,
+                "date": "2026-02-28",
+                "status": "Completed"
+            }
+        ]
+    }
+}

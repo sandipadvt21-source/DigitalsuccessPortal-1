@@ -1,0 +1,25 @@
+{
+    "demo_user": [
+        {
+            "name": "Alice Smith",
+            "user_id": "UQM003",
+            "join_date": "2026-02-10",
+            "status": "Active",
+            "total_income": 12000
+        },
+        {
+            "name": "Bob Johnson",
+            "user_id": "UQM004",
+            "join_date": "2026-02-20",
+            "status": "Active",
+            "total_income": 8500
+        },
+        {
+            "name": "Carol White",
+            "user_id": "UQM005",
+            "join_date": "2026-03-01",
+            "status": "Inactive",
+            "total_income": 2000
+        }
+    ]
+}

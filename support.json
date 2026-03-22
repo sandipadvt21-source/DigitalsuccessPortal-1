@@ -1,0 +1,12 @@
+{
+    "demo_user": [
+        {
+            "ticket_id": "TKT001",
+            "subject": "Withdrawal not received",
+            "category": "Withdrawal",
+            "message": "My withdrawal from 25th Feb is still pending",
+            "date": "2026-02-26",
+            "status": "Open"
+        }
+    ]
+}

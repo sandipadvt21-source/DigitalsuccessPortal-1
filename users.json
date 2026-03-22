@@ -1,0 +1,35 @@
+{
+    "demo_user": {
+        "password": "demo123",
+        "name": "Demo User",
+        "user_id": "UQM001",
+        "email": "demo@uniquemarketing.com",
+        "phone": "+91-9876543210",
+        "bank_account": "1234567890",
+        "bank_name": "HDFC Bank",
+        "account_status": "Active",
+        "join_date": "2025-01-15"
+    },
+    "user": {
+        "password": "user123",
+        "name": "User Account",
+        "user_id": "UQM003",
+        "email": "pradhans953@gmail.com",
+        "phone": "+91-9000000000",
+        "bank_account": "",
+        "bank_name": "",
+        "account_status": "Active",
+        "join_date": "2026-03-10"
+    },
+    "abc": {
+        "password": "123456",
+        "name": "Abc",
+        "user_id": "UQM1002",
+        "email": "pradhans953@gmail.com",
+        "phone": "8697190758",
+        "bank_account": "",
+        "bank_name": "",
+        "account_status": "Active",
+        "join_date": "2026-03-10"
+    }
+}
